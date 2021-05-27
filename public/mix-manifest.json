@@ -1,0 +1,10 @@
+{
+    "/js/index.js": "/js/index.js",
+    "/js/login.js": "/js/login.js",
+    "/js/register.js": "/js/register.js",
+    "/js/dashboard.js": "/js/dashboard.js",
+    "/css/dashboard.css": "/css/dashboard.css",
+    "/css/register.css": "/css/register.css",
+    "/css/login.css": "/css/login.css",
+    "/css/index.css": "/css/index.css"
+}
